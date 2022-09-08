@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [My solution](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
+- [My solution](https://www.frontendmentor.io/solutions/interactive-rating-component-AzwLS7E4xR)
+- [Live site](https://jallanoli.github.io/interactive-rating-component-main/)
 
 ## My process
 
